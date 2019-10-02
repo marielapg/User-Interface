@@ -113,7 +113,7 @@ a{
 	padding:20px;
 	border: 2px solid red;
  }
- 
+
  .header img {
 	width: 80%;
 	margin:80px; 
@@ -122,3 +122,11 @@ a{
 	left: 70%;
 	bottom: 100%;
  } 
+
+ /* .middle{
+	 width: 100%;
+ }
+ .middle h2{
+	 border: 2px solid red:
+
+ } */
